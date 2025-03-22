@@ -1,50 +1,38 @@
+# Hi there, I'm CarlosAMDev 👋
 
-  <header>
-    <h1>CarlosAMDev</h1>
-    <button id="theme-toggle"><i class="fas fa-adjust"></i> Cambiar Tema</button>
-  </header>
-  <div class="container">
-    <p class="bio">Desarrollador apasionado, creando soluciones innovadoras y experiencias digitales impactantes.</p>
-    
-    <!-- Sección de habilidades / lenguajes -->
-    <section class="skills">
-      <h2>Lenguajes de Programación</h2><br>
-      <span><i class="fab fa-python"></i> Python</span>
-      <span><i class="fab fa-html5"></i> HTML</span>
-      <span><i class="fab fa-css3-alt"></i> CSS</span>
-      <span><i class="fab fa-js"></i> JavaScript</span>
-      <span><i class="fab fa-php"></i> PHP</span>
-      <span><i class="fab fa-docker"></i> Docker</span>
-    </section>
-    
-    <!-- Sección Sobre Mí en formato de lista -->
-    <section class="about">
-      <h2>Sobre Mí</h2>
-      <ul>
-        <li>Soy principiante y estoy en constante aprendizaje.</li>
-        <li>Próximamente agregaré una foto personal.</li>
-        <li>Apasionado por el desarrollo web y las nuevas tecnologías.</li>
-        <li>Me encanta compartir conocimientos y crecer junto a la comunidad.</li>
-      </ul>
-    </section>
-    
-    <!-- Sección Información Extra para estilizar la página -->
-    <section class="extra">
-      <h2>Información Extra</h2>
-      <p>Aquí irán futuras actualizaciones y contenido relevante. ¡Mantente atento para novedades y mejoras en el perfil!</p>
-    </section>
-    
-    <!-- Redes sociales -->
-    <section class="social-icons">
-      <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="#" title="X (antes Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
-      <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
-    </section>
-  </div>
-  <footer>
-    &copy; 2025 CarlosAMDev. Todos los derechos reservados.
-  </footer>
-  
-  <script src="script.js"></script>
+## About Me
 
+- I'm a beginner developer constantly learning new web technologies.
+- Passionate about frontend development and building innovative web solutions.
+- Currently working with **JavaScript**, **CSS**, **PHP**, **Docker**, **Python** and **HTML**.
+- I'll update my profile soon with more information and a personal photo.
+- Feel free to reach out via the social links below.
+
+## 🛠️ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
+## 🔧 Tools & Technologies
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="left"> <table align="left"> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosAMDev&theme=dark&show_icons=true&count_private=true" alt="CarlosAMDev's GitHub Stats" /> <br> <div align="center">  </div> <br> 
+
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/CarlosAMDev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+**Last Edited on:** 21/03/2025
