@@ -1,3 +1,12 @@
+# Perfil de GitHub - CarlosAMDev
+
+Este es un perfil de GitHub interactivo que incluye un botón para alternar entre temas oscuro y claro, animaciones sutiles y un diseño moderno. La estructura está dividida en tres secciones: HTML, CSS y JavaScript.
+
+---
+
+## HTML (index.html)
+
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -56,8 +65,5 @@
   </footer>
   
   <script src="script.js"></script>
-</body>
-</html>
-
 </body>
 </html>
