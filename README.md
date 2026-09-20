@@ -1,37 +1,50 @@
-# Hi there 👋
+## Selected work
 
-## 🚀 About Me
+<div align="center">
 
-Full-stack developer passionate about building scalable applications and learning new technologies.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev hero visual" />
+</p>
 
-## 🛠️ Tech Stack
+<h1>Carlos Arias</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
-**Frameworks**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+## The idea behind the work
 
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> Building useful things and learning in public.
 
-## 🌱 Currently Learning
+- 👥 **0** followers · **0** following
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+*Small, useful work over vague claims.*
 
-## 📫 Contact
+## Case studies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-arias-morales-549590360)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosariasmorales36@gmail.com)
+<table>
+<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/zenith_engine">zenith_engine</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Rust · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/CarlosAMDev">CarlosAMDev</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/ClassAI">ClassAI</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+</table>
 
+## Details worth noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev highlights visual" />
+</p>
+
+<p><b>Carlos Arias</b> is shipping 3 public projects with 0 stars of proof.</p>
+
+## Creative toolkit
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev social visual" />
+</p>
+
+<a href="https://github.com/carlosamdev">GitHub</a>
+
+<p align="center"><sub>Carlos Arias · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
