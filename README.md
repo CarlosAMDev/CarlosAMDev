@@ -40,21 +40,21 @@ Currently a developer at **Vertex Tech Digital**, a B2B technology consultancy b
 
 ## GitHub analytics
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CarlosAMDev&color=0e75b6&style=flat&label=Profile+views" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlosAMDev&color=1f6feb&style=flat&label=Profile+views" alt="Profile views" />
 </p>
 
-<p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAMDev&theme=default" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosAMDev&theme=default" alt="Top languages by repo" />
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAMDev&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosAMDev&theme=github_dark" alt="Top languages by repo" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=CarlosAMDev&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosAMDev&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAMDev&hide_border=true" alt="Contribution activity graph" />
+<p align="center">
+  <img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAMDev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ## Contact
