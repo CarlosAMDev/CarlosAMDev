@@ -1,50 +1,65 @@
+# Carlos Arias
+
+**Backend Developer · AI in Education · Learning Analytics**
+📍 Sancti Spíritus, Cuba
+
+Fourth-year undergraduate in Foreign Languages (English and French) at the University of Sancti Spíritus “José Martí Pérez” (UNISS), and a backend developer working on self-hosted, production-oriented systems. My work sits at the intersection of software engineering and education: I build the infrastructure, and I research how it improves teaching and learning.
+
+Currently a developer at **Vertex Tech Digital**, a B2B technology consultancy based in Santa Cruz de Tenerife, Spain.
+
+---
+
+## What I do
+
+- **Backend & self-hosted systems** — APIs and business platforms designed to run on your own server, with no dependence on external providers: TypeScript, FastAPI, PostgreSQL and Redis.
+- **AI applied to education** — tools for lesson planning and formative feedback in English language teaching, built with a real methodological basis, not generic generated content.
+- **Learning analytics & observability** — telemetry and visualisation for Moodle using Prometheus and Grafana, aimed at supporting formative feedback for teachers.
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[ClassAI](https://github.com/CarlosAMDev/ClassAI)** | AI-powered ESL/EFL lesson plan generator. Create complete, structured lesson plans in minutes, with authentication, plans management and DOCX export. | TanStack Start (React + SSR), Clerk, Supabase PostgreSQL, Prisma, OpenRouter, Tailwind CSS |
+| **[Zenith Engine](https://github.com/CarlosAMDev/zenith_engine)** | Lightweight, multithreaded browser rendering and scripting engine: HTML/DOM parsing, QuickJS integration, CSS resolution and layout, and GPU composition with offscreen rendering at 60 FPS. | Rust, wgpu, winit, QuickJS |
+
 ## Selected work
 
-<div align="center">
+- **Moodle learning-analytics telemetry** — Prometheus/Grafana visualisation of learning analytics as support for formative feedback. Co-authored study currently under review at *Pedagogía y Sociedad* (UNISS).
+- **UNISS Links** — a small app that centralises the University of Sancti Spíritus' links and lets each user keep their own, developed under the university's Digital Transition Project.
+- **Vertex Tech Digital platform** — full-stack B2B consultancy platform: React, Express and PostgreSQL, AI-assisted diagnostics, bilingual blog, admin panel and payment integration, with automated testing and CI.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev hero visual" />
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+## Research
+
+My research focuses on **formative feedback in English language teaching, mediated by technology** — learning analytics and generative AI — for university EFL learners.
+
+- ORCID: [0009-0000-5515-1357](https://orcid.org/0009-0000-5515-1357)
+
+## GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosAMDev&show_icons=true&hide_border=true" alt="Carlos Arias GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAMDev&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
-<h1>Carlos Arias</h1>
-<p><b>Freelance developer or consultant</b></p>
+## Contact
 
-</div>
+- LinkedIn: [carlos-arias-morales](https://www.linkedin.com/in/carlos-arias-morales-549590360)
+- Email: carlosarias@uniss.edu.cu
+- GitHub: [@CarlosAMDev](https://github.com/CarlosAMDev)
 
-## The idea behind the work
-
-> Building useful things and learning in public.
-
-- 👥 **0** followers · **0** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/zenith_engine">zenith_engine</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Rust · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/CarlosAMDev">CarlosAMDev</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/CarlosAMDev/ClassAI">ClassAI</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-</table>
-
-## Details worth noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev highlights visual" />
-</p>
-
-<p><b>Carlos Arias</b> is shipping 3 public projects with 0 stars of proof.</p>
-
-## Creative toolkit
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge&logo=golang&logoColor=white)
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=carlosamdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81838782%3Fu%3D7988e1ec8e7b5bd9d58649ad90eee172e4d6e1bd%26v%3D4" alt="carlosamdev social visual" />
-</p>
-
-<a href="https://github.com/carlosamdev">GitHub</a>
-
-<p align="center"><sub>Carlos Arias · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+*Small, useful work over vague claims — everything listed here is verifiable in the repositories or in published work.*
