@@ -29,7 +29,6 @@ Currently a developer at **Vertex Tech Digital**, a B2B technology consultancy b
 - **Backend & APIs** — TypeScript and FastAPI services, with PostgreSQL and Redis.
 - **Self-hosted platforms** — systems designed to deploy and run on your own server or VPS, with Docker.
 - **Observability** — telemetry, metrics and dashboards with Prometheus and Grafana.
-- **Data analytics** — working with telemetry and platform data: collection, processing and visualisation in clear dashboards that support data-driven decisions.
 - **Systems programming** — low-level tooling and engines in Rust and Go, including high-concurrency workers.
 
 ## Featured projects
@@ -38,6 +37,25 @@ Currently a developer at **Vertex Tech Digital**, a B2B technology consultancy b
 |---|---|---|
 | **[ClassAI](https://github.com/CarlosAMDev/ClassAI)** | Full-stack web application with authentication, subscription plans, data persistence and DOCX export. | TanStack Start (React + SSR), Clerk, Supabase PostgreSQL, Prisma, Tailwind CSS |
 | **[Zenith Engine](https://github.com/CarlosAMDev/zenith_engine)** | Lightweight, multithreaded browser rendering and scripting engine: HTML/DOM parsing, QuickJS integration, CSS resolution and layout, and GPU composition with offscreen rendering at 60 FPS. | Rust, wgpu, winit, QuickJS |
+
+## GitHub analytics
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=CarlosAMDev&color=0e75b6&style=flat&label=Profile+views" alt="Profile views" />
+</p>
+
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAMDev&theme=default" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosAMDev&theme=default" alt="Top languages by repo" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=CarlosAMDev&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAMDev&hide_border=true" alt="Contribution activity graph" />
+</p>
 
 ## Contact
 
