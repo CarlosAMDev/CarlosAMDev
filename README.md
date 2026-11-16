@@ -29,6 +29,7 @@ Currently a developer at **Vertex Tech Digital**, a B2B technology consultancy b
 - **Backend & APIs** — TypeScript and FastAPI services, with PostgreSQL and Redis.
 - **Self-hosted platforms** — systems designed to deploy and run on your own server or VPS, with Docker.
 - **Observability** — telemetry, metrics and dashboards with Prometheus and Grafana.
+- **Data analytics** — working with telemetry and platform data: collection, processing and visualisation in clear dashboards that support data-driven decisions.
 - **Systems programming** — low-level tooling and engines in Rust and Go, including high-concurrency workers.
 
 ## Featured projects
